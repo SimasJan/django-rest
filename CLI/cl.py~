@@ -1,0 +1,11 @@
+import requests
+import json
+
+
+def getSesssionId(start_response):
+    for k,v in response.json().items():
+        if 'id' in k:
+            return v
+        else:
+            print('Error')
+
