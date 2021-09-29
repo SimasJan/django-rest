@@ -21,7 +21,7 @@ idna==2.8
 itypes==1.1.0
 Jinja2==2.10.1
 MarkupSafe==1.1.1
-nltk==3.4
+nltk==3.6.3
 oauthlib==3.0.1
 protobuf==3.7.1
 pyasn1==0.4.5
