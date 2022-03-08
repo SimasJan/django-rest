@@ -16,7 +16,7 @@ google-auth==1.6.3
 google-cloud-language==1.2.0
 googleapis-common-protos==1.5.9
 grpcio==1.19.0
-httpie==1.0.2
+httpie==3.1.0
 idna==2.8
 itypes==1.1.0
 Jinja2==2.10.1
